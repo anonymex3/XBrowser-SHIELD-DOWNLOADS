@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/latest"><img src="https://img.shields.io/github/v/release/anonymex3/XBrowser-SHIELD-DOWNLOADS?label=Version&style=flat-square&color=1fbf8f" alt="Version"></a>
+  <a href="https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/latest"><img src="https://img.shields.io/badge/Version-1.4.0-1fbf8f?style=flat-square" alt="Version 1.4.0"></a>
   <img src="https://img.shields.io/badge/Android-8.0%2B-3ddc84?style=flat-square&logo=android&logoColor=white" alt="Android 8.0+">
   <img src="https://img.shields.io/badge/Engine-GeckoView%20158-0b5cad?style=flat-square" alt="Engine: GeckoView 158">
   <img src="https://img.shields.io/badge/Tor-eingebaut-7d4698?style=flat-square" alt="Tor eingebaut">
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/download/android-v1.4.0/XBrowser-SHIELD-Android8-1.4.0-ARM64.apk"><img src="https://img.shields.io/badge/APK%20herunterladen-1.4.0%20%C2%B7%20ARM64-1fbf8f?style=for-the-badge&logo=android&logoColor=white" alt="APK herunterladen"></a>
+  <a href="https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/download/android-v1.4.0/XBrowser-SHIELD-Android8-1.4.0-ARM64.apk"><img src="https://img.shields.io/badge/APK%20herunterladen-1.4.0%20%C2%B7%20ARM64-1fbf8f?style=for-the-badge&logo=android&logoColor=white&labelColor=0b7a5a" alt="APK herunterladen"></a>
   <br>
   <sub>Für fast alle Handys · andere Geräte: <a href="https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/download/android-v1.4.0/XBrowser-SHIELD-Android8-1.4.0-ARMv7.apk">ARMv7 (32-Bit)</a> · <a href="https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/download/android-v1.4.0/XBrowser-SHIELD-Android8-1.4.0-x86_64.apk">x86_64</a> · <a href="https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/tag/android-v1.4.0">alle Dateien &amp; Prüfsummen</a></sub>
 </p>
