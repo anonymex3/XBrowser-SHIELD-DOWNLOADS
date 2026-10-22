@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/latest"><img src="https://img.shields.io/badge/Version-1.4.0-1fbf8f?style=flat-square" alt="Version 1.4.0"></a>
+  <a href="https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/latest"><img src="https://img.shields.io/badge/Version-1.4.1-1fbf8f?style=flat-square" alt="Version 1.4.1"></a>
   <img src="https://img.shields.io/badge/Android-8.0%2B-3ddc84?style=flat-square&logo=android&logoColor=white" alt="Android 8.0+">
   <img src="https://img.shields.io/badge/Engine-GeckoView%20158-0b5cad?style=flat-square" alt="Engine: GeckoView 158">
   <img src="https://img.shields.io/badge/Tor-eingebaut-7d4698?style=flat-square" alt="Tor eingebaut">
@@ -11,9 +11,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/download/android-v1.4.0/XBrowser-SHIELD-Android8-1.4.0-ARM64.apk"><img src="https://img.shields.io/badge/APK%20herunterladen-1.4.0%20%C2%B7%20ARM64-1fbf8f?style=for-the-badge&logo=android&logoColor=white&labelColor=0b7a5a" alt="APK herunterladen"></a>
+  <a href="https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/download/android-v1.4.1/XBrowser-SHIELD-Android8-1.4.1-ARM64.apk"><img src="https://img.shields.io/badge/APK%20herunterladen-1.4.1%20%C2%B7%20ARM64-1fbf8f?style=for-the-badge&logo=android&logoColor=white&labelColor=0b7a5a" alt="APK herunterladen"></a>
   <br>
-  <sub>Für fast alle Handys · andere Geräte: <a href="https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/download/android-v1.4.0/XBrowser-SHIELD-Android8-1.4.0-ARMv7.apk">ARMv7 (32-Bit)</a> · <a href="https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/download/android-v1.4.0/XBrowser-SHIELD-Android8-1.4.0-x86_64.apk">x86_64</a> · <a href="https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/tag/android-v1.4.0">alle Dateien &amp; Prüfsummen</a></sub>
+  <sub>Für fast alle Handys · andere Geräte: <a href="https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/download/android-v1.4.1/XBrowser-SHIELD-Android8-1.4.1-ARMv7.apk">ARMv7 (32-Bit)</a> · <a href="https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/download/android-v1.4.1/XBrowser-SHIELD-Android8-1.4.1-x86_64.apk">x86_64</a> · <a href="https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/tag/android-v1.4.1">alle Dateien &amp; Prüfsummen</a></sub>
 </p>
 
 <p align="center">
@@ -37,8 +37,8 @@
 | 🔒 **Nur HTTPS** | 🕶 **Privat ab Werk** | 🛡 **Tracker-Schutz** |
 |---|---|---|
 | Unverschlüsselte Seiten werden nicht geladen, `http://`-Links automatisch zu `https://`. Ein Tipp zeigt das Zertifikat. | Jeder Tab ist privat. Cookies und Website-Daten sind weg, sobald die Tabs zu sind. Verlauf ist aus. | Strenger Schutz von Mozilla, eigener SHIELD-Filter und Link-Bereinigung – mit Zähler „7 Tracker blockiert“. |
-| 🧅 **Tor eingebaut** | 🧩 **Add-ons** | ✅ **Geprüfte Updates** |
-| Ohne Zusatz-App: eigene Tor-Verbindung pro Website, Relais-Anzeige, `.onion`-Seiten und Brücken gegen Sperren. | uBlock Origin und Buster (Captcha-Hilfe) mit einem Tipp, direkt von Mozilla signiert. | Update-Informationen sind digital signiert; die APKs tragen immer denselben Schlüssel von X-Projekt. |
+| 🧅 **Tor eingebaut** | 🧩 **Add-ons** | 🔄 **Updates automatisch** |
+| Ohne Zusatz-App: eigene Tor-Verbindung pro Website, Relais-Anzeige, `.onion`-Seiten und Brücken gegen Sperren. | uBlock Origin und Buster (Captcha-Hilfe) mit einem Tipp, direkt von Mozilla signiert. | Neue Versionen werden geladen, geprüft und installiert – mit Benachrichtigung. Nur Dateien mit dem Schlüssel von X-Projekt. |
 
 ## So sieht es aus
 
@@ -59,13 +59,13 @@
 
 ## Download und Installation
 
-**Aktuelle Version: [XBrowser SHIELD 1.4.0](https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/tag/android-v1.4.0)** · Android 8.0 oder neuer
+**Aktuelle Version: [XBrowser SHIELD 1.4.1](https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/tag/android-v1.4.1)** · Android 8.0 oder neuer
 
 | Datei | Für welches Gerät? | Größe |
 |---|---|---|
-| [**ARM64**](https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/download/android-v1.4.0/XBrowser-SHIELD-Android8-1.4.0-ARM64.apk) | **Fast alle Handys und Tablets** – im Zweifel diese | 224 MB |
-| [ARMv7](https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/download/android-v1.4.0/XBrowser-SHIELD-Android8-1.4.0-ARMv7.apk) | Ältere oder günstige Geräte mit 32-Bit-Prozessor | 185 MB |
-| [x86_64](https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/download/android-v1.4.0/XBrowser-SHIELD-Android8-1.4.0-x86_64.apk) | Emulatoren, Chromebooks mit Intel-/AMD-Prozessor | 246 MB |
+| [**ARM64**](https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/download/android-v1.4.1/XBrowser-SHIELD-Android8-1.4.1-ARM64.apk) | **Fast alle Handys und Tablets** – im Zweifel diese | 224 MB |
+| [ARMv7](https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/download/android-v1.4.1/XBrowser-SHIELD-Android8-1.4.1-ARMv7.apk) | Ältere oder günstige Geräte mit 32-Bit-Prozessor | 185 MB |
+| [x86_64](https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/download/android-v1.4.1/XBrowser-SHIELD-Android8-1.4.1-x86_64.apk) | Emulatoren, Chromebooks mit Intel-/AMD-Prozessor | 246 MB |
 
 1. Die passende APK **auf dem Handy** herunterladen und öffnen.
 2. Android fragt einmal, ob dein Browser oder Dateimanager Apps installieren darf („Unbekannte Apps installieren“) – erlauben.
@@ -73,14 +73,14 @@
 
 Meldet Android „App nicht installiert“, passt die Architektur nicht – dann die ARMv7-Datei nehmen.
 
-**Updates:** XBrowser zeigt neue Versionen selbst an (Einstellungen → Sicherheit & Updates). Das Update installierst du wie die erste Version darüber; Lesezeichen und Einstellungen bleiben erhalten. Das gilt auch für ein Update von 1.3.x.
+**Updates kommen ab 1.4.1 automatisch:** XBrowser lädt neue Versionen im Hintergrund, prüft sie und installiert sie, sobald er nicht auf dem Bildschirm ist. Beim ersten Update fragt Android einmal, ob XBrowser Apps installieren darf (Android 8 bis 11: bei jedem Update ein Tipp auf „Installieren“). Lesezeichen und Einstellungen bleiben erhalten. Wer noch 1.4.0 oder 1.3.x hat, installiert 1.4.1 einmal von Hand darüber.
 
 <details>
 <summary><b>Download prüfen (empfohlen)</b></summary>
 
-1. **Prüfsumme:** Der SHA-256-Wert der Datei muss mit [`SHA256SUMS.txt`](https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/download/android-v1.4.0/SHA256SUMS.txt) übereinstimmen.
-   - Windows: `Get-FileHash .\XBrowser-SHIELD-Android8-1.4.0-ARM64.apk -Algorithm SHA256`
-   - macOS / Linux: `shasum -a 256 XBrowser-SHIELD-Android8-1.4.0-ARM64.apk`
+1. **Prüfsumme:** Der SHA-256-Wert der Datei muss mit [`SHA256SUMS.txt`](https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/download/android-v1.4.1/SHA256SUMS.txt) übereinstimmen.
+   - Windows: `Get-FileHash .\XBrowser-SHIELD-Android8-1.4.1-ARM64.apk -Algorithm SHA256`
+   - macOS / Linux: `shasum -a 256 XBrowser-SHIELD-Android8-1.4.1-ARM64.apk`
 2. **Signatur:** Alle APKs sind mit demselben Schlüssel von X-Projekt signiert (APK-Signatur v2 und v3). Zertifikat SHA-256:
    ```
    0827ba16bec12379e935072c82130cd33e892732a72ad5fa5325b65136c169dd
@@ -144,7 +144,7 @@ XBrowser speichert Einstellungen, Lesezeichen und – nur wenn du ihn einschalte
 |---|---|
 | Webseiten und deine gewählte Suchmaschine | wenn du sie aufrufst |
 | Mozilla und Google Safe Browsing | Schutzlisten der Engine – ohne besuchte Adressen im Klartext |
-| GitHub | höchstens alle 6 Stunden: signierte Update-Information |
+| GitHub | höchstens alle 6 Stunden: signierte Update-Information; bei einer neuen Version die neue App-Datei |
 | Tor-Netz und `check.torproject.org` | nur im Tor-Modus |
 | DNS.SB | nur wenn du verschlüsseltes DNS einschaltest |
 
@@ -159,7 +159,7 @@ Vollständige [Datenschutzerklärung](https://xbrowser.xanonymeki.net/datenschut
 | Tracking | strenger Tracking-Schutz, vollständiger Cookie-Schutz, SHIELD-Filter, Link Cleaner |
 | Gerät | gesperrte Website-Rechte, Heimnetz-Sperre, gefilterte App-Links, Download-Prüfung |
 | Daten | private Tabs, kein Verlauf als Standard, kein Cloud-Backup, Bildschirmschutz |
-| Updates | signierte Update-Informationen, fester Signaturschlüssel, Warnung bei veralteter Version |
+| Updates | signierte Update-Informationen, automatische Installation nur mit Paketname, Version und Schlüssel von X-Projekt, Warnung bei veralteter Version |
 
 **Geprüft:** automatische Unit-, Robolectric- und Lint-Tests; Emulator-Tests auf Android 8.0 und 15; Tor, Brücken, .onion und Buster auf einem echten Gerät. Das ist **kein** unabhängiges Sicherheitsaudit.
 
@@ -172,6 +172,12 @@ Vollständige [Datenschutzerklärung](https://xbrowser.xanonymeki.net/datenschut
 - DRM-Inhalte (manche Streamingdienste) und Website-Rechte wie Kamera oder Standort sind bewusst gesperrt. Manche „Anmelden mit …“-Fenster in eingebetteten Rahmen können scheitern.
 
 ## Häufige Fragen
+
+<details>
+<summary><b>Wie funktionieren die automatischen Updates?</b></summary>
+
+Meldet der signierte Update-Feed eine neue Version, lädt XBrowser sie herunter – standardmäßig nur über WLAN, im Tor-Modus über Tor – und zeigt den Fortschritt als Benachrichtigung. Vor der Installation prüft er Paketname, Version und Signaturschlüssel; eine andere Datei wird abgelehnt und gelöscht. Installiert wird erst, wenn XBrowser nicht auf dem Bildschirm ist, damit nichts mitten im Surfen schließt. Danach meldet eine Benachrichtigung „XBrowser SHIELD wurde aktualisiert“. Abschalten kannst du das im Update-Center (Menü → Sicherheitsupdates).
+</details>
 
 <details>
 <summary><b>Kostet XBrowser SHIELD etwas?</b></summary>
@@ -215,9 +221,11 @@ Eine Play-Version ist in Vorbereitung. Sie wird von Google signiert; ein Wechsel
 Ab Android 8.0, auch auf 32-Bit-Geräten (ARMv7-Datei). Ältere Android-Versionen unterstützt die aktuelle Browser-Engine von Mozilla nicht mehr – eine Engine ohne Sicherheitsupdates kommt für XBrowser nicht in Frage.
 </details>
 
-## Neu in 1.4.0
+## Neu in 1.4.1
 
-Vollständiger Alltagsbrowser mit GeckoView 158 · Tor voll ausgebaut (eigene Verbindung pro Website, Relais-Anzeige, .onion und Onion-Location, Brücken, Sicherheitsstufen) · uBlock Origin und Buster mit einem Tipp · Downloads, Dialoge, Datei-Upload, Vollbild · Heimnetz-Schutz und vollständiger Cookie-Schutz · ab Android 8.0 und für 32-Bit-Geräte · alle Lizenztexte in der App. **[Alle Änderungen](https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/tag/android-v1.4.0)**
+**Updates installieren sich jetzt selbst:** XBrowser lädt neue Versionen im Hintergrund (standardmäßig nur über WLAN, im Tor-Modus über Tor), prüft sie und installiert sie, sobald XBrowser nicht auf dem Bildschirm ist – mit Benachrichtigung bei jedem Schritt. **[Alle Änderungen](https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/tag/android-v1.4.1)**
+
+**1.4.0:** Vollständiger Alltagsbrowser mit GeckoView 158 · Tor voll ausgebaut (eigene Verbindung pro Website, Relais-Anzeige, .onion und Onion-Location, Brücken, Sicherheitsstufen) · uBlock Origin und Buster mit einem Tipp · Downloads, Dialoge, Datei-Upload, Vollbild · Heimnetz-Schutz und vollständiger Cookie-Schutz · ab Android 8.0 und für 32-Bit-Geräte · alle Lizenztexte in der App. **[Release 1.4.0](https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/tag/android-v1.4.0)**
 
 ## Lizenzen und Herkunft
 
@@ -243,10 +251,11 @@ Alle Lizenztexte und Copyright-Vermerke: [THIRD_PARTY_NOTICES.txt](THIRD_PARTY_N
 - **Every tab is private:** total cookie protection, strict tracking protection, link cleaning, Global Privacy Control, no history by default, screenshot protection.
 - **Built-in Tor** without an extra app: SOCKS5 with remote DNS like Tor Browser, a separate Tor circuit for every website, relay view with countries, `.onion` sites and Onion-Location, bridges (obfs4, Snowflake, meek, custom) that fail closed, and Tor Browser's security levels.
 - **Add-ons:** uBlock Origin and Buster (captcha helper) with one tap from addons.mozilla.org.
+- **Automatic updates** (from 1.4.1): downloaded in the background, checked for package name, version and signing key, installed while XBrowser is not on screen, with notifications.
 - **Safe downloads**, confirmed links to other apps, signed update information.
 - **No account, no ads, no analytics, no crash reports.**
 
-**Download:** [ARM64 APK](https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/download/android-v1.4.0/XBrowser-SHIELD-Android8-1.4.0-ARM64.apk) for almost every phone, or [all files and checksums](https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/tag/android-v1.4.0). Signing certificate SHA-256: `0827ba16bec12379e935072c82130cd33e892732a72ad5fa5325b65136c169dd`.
+**Download:** [ARM64 APK](https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/download/android-v1.4.1/XBrowser-SHIELD-Android8-1.4.1-ARM64.apk) for almost every phone, or [all files and checksums](https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/tag/android-v1.4.1). Signing certificate SHA-256: `0827ba16bec12379e935072c82130cd33e892732a72ad5fa5325b65136c169dd`.
 
 **Limits:** no browser is "100 % secure", and XBrowser SHIELD does not guarantee anonymity. It has not been independently audited. It is not Tor Browser; use the official Tor Browser if you need strong anonymity. The source code of XBrowser SHIELD is not public; bundled open-source components are listed in [THIRD_PARTY_NOTICES.txt](THIRD_PARTY_NOTICES.txt).
 
