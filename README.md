@@ -63,9 +63,9 @@
 
 | Datei | Für welches Gerät? | Größe |
 |---|---|---|
-| [**ARM64**](https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/download/android-v1.4.0/XBrowser-SHIELD-Android8-1.4.0-ARM64.apk) | **Fast alle Handys und Tablets** – im Zweifel diese | 234 MB |
-| [ARMv7](https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/download/android-v1.4.0/XBrowser-SHIELD-Android8-1.4.0-ARMv7.apk) | Ältere oder günstige Geräte mit 32-Bit-Prozessor | 194 MB |
-| [x86_64](https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/download/android-v1.4.0/XBrowser-SHIELD-Android8-1.4.0-x86_64.apk) | Emulatoren, Chromebooks mit Intel-/AMD-Prozessor | 258 MB |
+| [**ARM64**](https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/download/android-v1.4.0/XBrowser-SHIELD-Android8-1.4.0-ARM64.apk) | **Fast alle Handys und Tablets** – im Zweifel diese | 224 MB |
+| [ARMv7](https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/download/android-v1.4.0/XBrowser-SHIELD-Android8-1.4.0-ARMv7.apk) | Ältere oder günstige Geräte mit 32-Bit-Prozessor | 185 MB |
+| [x86_64](https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/download/android-v1.4.0/XBrowser-SHIELD-Android8-1.4.0-x86_64.apk) | Emulatoren, Chromebooks mit Intel-/AMD-Prozessor | 246 MB |
 
 1. Die passende APK **auf dem Handy** herunterladen und öffnen.
 2. Android fragt einmal, ob dein Browser oder Dateimanager Apps installieren darf („Unbekannte Apps installieren“) – erlauben.
