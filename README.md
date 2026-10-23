@@ -79,20 +79,15 @@ Die iPhone-Version nutzt Apples WebKit (das schreibt Apple für alle Browser vor
 
 Eine IPA-Datei zum Selbstinstallieren gibt es bewusst nicht: Sie wäre für den App Store signiert und ließe sich auf iPhones außerhalb des App Stores nicht installieren.
 
-## So sieht es aus (Android)
+## So sieht es aus (Android 1.4.2)
 
 <table>
   <tr>
-    <td align="center"><img src="docs/1-startseite.png" height="360" alt="Startseite"><br><sub>Startseite</sub></td>
-    <td align="center"><img src="docs/tor-bestaetigt.png" height="360" alt="Tor bestätigt"><br><sub>Tor bestätigt</sub></td>
-    <td align="center"><img src="docs/tor-relais.png" height="360" alt="Tor-Relais der Seite"><br><sub>Tor-Relais pro Seite</sub></td>
-    <td align="center"><img src="docs/addons.png" height="360" alt="Add-ons"><br><sub>Add-ons</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="docs/5-schutz.png" height="360" alt="Schutzeinstellungen"><br><sub>Schutzeinstellungen</sub></td>
-    <td align="center"><img src="docs/6-tabs.png" height="360" alt="Private Tabs"><br><sub>Private Tabs</sub></td>
-    <td align="center"><img src="docs/7-download-warnung.png" height="360" alt="Download-Warnung"><br><sub>Warnung vor riskanten Dateien</sub></td>
-    <td align="center"><img src="docs/3-menue.png" height="360" alt="Menü"><br><sub>Menü</sub></td>
+    <td align="center"><img src="docs/sichtschutz-1-start.png" height="360" alt="Startseite"><br><sub>Startseite</sub></td>
+    <td align="center"><img src="docs/sichtschutz-2-seiteninfo.png" height="360" alt="Seiteninfo mit Zertifikat"><br><sub>Seiteninfo mit Zertifikat</sub></td>
+    <td align="center"><img src="docs/sichtschutz-3-menue.png" height="360" alt="Menü"><br><sub>Menü</sub></td>
+    <td align="center"><img src="docs/sichtschutz-4-tabs.png" height="360" alt="Private Tabs"><br><sub>Private Tabs</sub></td>
+    <td align="center"><img src="docs/sichtschutz-5-download-warnung.png" height="360" alt="Warnung vor riskanten Dateien"><br><sub>Warnung vor riskanten Dateien</sub></td>
   </tr>
 </table>
 
