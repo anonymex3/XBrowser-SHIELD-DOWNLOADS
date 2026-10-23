@@ -180,7 +180,7 @@ Sichtschutz speichert Einstellungen, Lesezeichen und Verlauf **auf deinem Gerät
 |---|---|
 | Webseiten und deine gewählte Suchmaschine | wenn du sie aufrufst |
 | Mozilla und Google Safe Browsing | Windows und Android: Schutzlisten der Engine – ohne besuchte Adressen im Klartext |
-| Update-Information | Android (GitHub-Version): GitHub, höchstens alle 6 Stunden · Windows: Update-Server von X-Projekt · iPhone: `xbrowser-security.pages.dev` – jeweils signiert, ohne Nutzungsdaten |
+| Update-Information | Android: sichtschutz.xanonymeki.net (Kopie auf GitHub, falls die Website nicht erreichbar ist), höchstens alle 6 Stunden · Windows: Update-Server von X-Projekt · iPhone: `xbrowser-security.pages.dev` – jeweils signiert, ohne Nutzungsdaten |
 | Tor-Netz und `check.torproject.org` | im Tor-Modus (unter Windows ab Werk an) |
 | DNS.SB | nur wenn du verschlüsseltes DNS einschaltest |
 | Microsoft | nur bei der Windows-Installation, falls die Visual-C++-Laufzeit fehlt |
