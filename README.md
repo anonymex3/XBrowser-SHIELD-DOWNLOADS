@@ -3,31 +3,32 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/latest"><img src="https://img.shields.io/badge/Version-1.4.1-1fbf8f?style=flat-square" alt="Version 1.4.1"></a>
-  <img src="https://img.shields.io/badge/Android-8.0%2B-3ddc84?style=flat-square&logo=android&logoColor=white" alt="Android 8.0+">
-  <img src="https://img.shields.io/badge/Engine-GeckoView%20158-0b5cad?style=flat-square" alt="Engine: GeckoView 158">
+  <img src="https://img.shields.io/badge/Windows-3.5.0.4-0078d4?style=flat-square" alt="Windows 3.5.0.4">
+  <img src="https://img.shields.io/badge/Android-1.4.1-3ddc84?style=flat-square" alt="Android 1.4.1">
+  <img src="https://img.shields.io/badge/iPhone%20%26%20iPad-bald%20im%20App%20Store-555?style=flat-square" alt="iPhone und iPad: bald im App Store">
   <img src="https://img.shields.io/badge/Tor-eingebaut-7d4698?style=flat-square" alt="Tor eingebaut">
   <img src="https://img.shields.io/badge/Werbung%20%26%20Tracking-keine-555?style=flat-square" alt="Keine Werbung, kein Tracking">
 </p>
 
 <p align="center">
-  <a href="https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/download/android-v1.4.1/XBrowser-SHIELD-Android8-1.4.1-ARM64.apk"><img src="https://img.shields.io/badge/APK%20herunterladen-1.4.1%20%C2%B7%20ARM64-1fbf8f?style=for-the-badge&logo=android&logoColor=white&labelColor=0b7a5a" alt="APK herunterladen"></a>
+  <a href="https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/download/windows-v3.5.0.4-2.21/XBrowser-SHIELD-Windows-3.5.0.4-v2.21-Setup.exe"><img src="https://img.shields.io/badge/Windows%20herunterladen-3.5.0.4%20%C2%B7%2064--Bit-0078d4?style=for-the-badge&logoColor=white&labelColor=005a9e" alt="Für Windows herunterladen"></a>
+  <a href="https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/download/android-v1.4.1/XBrowser-SHIELD-Android8-1.4.1-ARM64.apk"><img src="https://img.shields.io/badge/Android--APK-1.4.1%20%C2%B7%20ARM64-1fbf8f?style=for-the-badge&logo=android&logoColor=white&labelColor=0b7a5a" alt="Android-APK herunterladen"></a>
   <br>
-  <sub>Für fast alle Handys · andere Geräte: <a href="https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/download/android-v1.4.1/XBrowser-SHIELD-Android8-1.4.1-ARMv7.apk">ARMv7 (32-Bit)</a> · <a href="https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/download/android-v1.4.1/XBrowser-SHIELD-Android8-1.4.1-x86_64.apk">x86_64</a> · <a href="https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/tag/android-v1.4.1">alle Dateien &amp; Prüfsummen</a></sub>
+  <sub>Windows 10 und 11 · Android 8.0 und neuer (<a href="#android-download-und-installation">andere Geräte</a>) · iPhone und iPad: Version 1.1.0 ist bei Apple in Prüfung</sub>
 </p>
 
 <p align="center">
-  <a href="#warum-xbrowser-shield">Warum?</a> ·
-  <a href="#so-sieht-es-aus">Screenshots</a> ·
-  <a href="#download-und-installation">Installation</a> ·
-  <a href="#funktionen">Funktionen</a> ·
+  <a href="#windows">Windows</a> ·
+  <a href="#iphone-und-ipad">iPhone &amp; iPad</a> ·
+  <a href="#android-download-und-installation">Android</a> ·
+  <a href="#funktionen-der-android-version">Funktionen</a> ·
   <a href="#tor--direkt-eingebaut">Tor</a> ·
   <a href="#datenschutz">Datenschutz</a> ·
   <a href="#häufige-fragen">FAQ</a> ·
   <a href="#english">English</a>
 </p>
 
-**XBrowser SHIELD** ist ein Webbrowser für Android, bei dem Privatsphäre die Grundeinstellung ist – nicht ein Schalter, den man erst suchen muss. Webseiten stellt **Mozilla GeckoView** dar, die Engine von Firefox, mit Mozillas Sicherheitsupdates. Darum herum legt XBrowser eigene Schutzschichten: nur verschlüsselte Verbindungen, private Tabs, Tracker- und Link-Filter, sichere Downloads und auf Wunsch **Tor direkt in der App**.
+**XBrowser SHIELD** ist ein Webbrowser für **Windows, Android und iPhone**, bei dem Privatsphäre die Grundeinstellung ist – nicht ein Schalter, den man erst suchen muss. Unter Windows und Android stellt die Engine von Firefox (Mozilla Gecko) die Webseiten dar, auf dem iPhone Apples WebKit. Darum herum legt XBrowser eigene Schutzschichten: nur verschlüsselte Verbindungen, Tracker- und Link-Filter, Fingerprint-Schutz und **Tor direkt eingebaut**.
 
 > **Kein Konto. Keine Werbung. Keine Analyse-Dienste. Keine Absturzberichte.**
 > X-Projekt erfährt nicht, welche Seiten du besuchst oder was du suchst.
@@ -36,11 +37,47 @@
 
 | 🔒 **Nur HTTPS** | 🕶 **Privat ab Werk** | 🛡 **Tracker-Schutz** |
 |---|---|---|
-| Unverschlüsselte Seiten werden nicht geladen, `http://`-Links automatisch zu `https://`. Ein Tipp zeigt das Zertifikat. | Jeder Tab ist privat. Cookies und Website-Daten sind weg, sobald die Tabs zu sind. Verlauf ist aus. | Strenger Schutz von Mozilla, eigener SHIELD-Filter und Link-Bereinigung – mit Zähler „7 Tracker blockiert“. |
-| 🧅 **Tor eingebaut** | 🧩 **Add-ons** | 🔄 **Updates automatisch** |
-| Ohne Zusatz-App: eigene Tor-Verbindung pro Website, Relais-Anzeige, `.onion`-Seiten und Brücken gegen Sperren. | uBlock Origin und Buster (Captcha-Hilfe) mit einem Tipp, direkt von Mozilla signiert. | Neue Versionen werden geladen, geprüft und installiert – mit Benachrichtigung. Nur Dateien mit dem Schlüssel von X-Projekt. |
+| Unverschlüsselte Seiten werden nicht geladen, `http://`-Links automatisch zu `https://`. | Strenger Cookie-Schutz, Fingerprint-Schutz, Link-Bereinigung und Global Privacy Control sind von Anfang an an. | Strenger Tracking-Schutz, eigene Filter und Werbeblocker – mit Zähler, was blockiert wurde. |
+| 🧅 **Tor eingebaut** | 🧩 **Add-ons** | 🔄 **Signierte Updates** |
+| Ohne Zusatz-App: Tor läuft auf deinem Gerät, mit Brücken gegen Sperren und `.onion`-Seiten. | Windows: acht Schutz-Add-ons ab Werk (uBlock Origin, NoScript, Privacy Badger …). Android: uBlock Origin und Buster mit einem Tipp. | Neue Versionen werden nur mit gültiger Signatur von X-Projekt angenommen. |
 
-## So sieht es aus
+## Windows
+
+**[XBrowser SHIELD 3.5.0.4 für Windows](https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/tag/windows-v3.5.0.4-2.21)** · Windows 10 und 11, 64-Bit · Installer 2.21
+
+| Datei | Größe |
+|---|---|
+| [**XBrowser-SHIELD-Windows-3.5.0.4-v2.21-Setup.exe**](https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/download/windows-v3.5.0.4-2.21/XBrowser-SHIELD-Windows-3.5.0.4-v2.21-Setup.exe) | 206 MB |
+
+1. Datei herunterladen und starten.
+2. Windows SmartScreen zeigt „Der Computer wurde durch Windows geschützt“, weil das Installationsprogramm mit einem eigenen Zertifikat von X-Projekt signiert ist und nicht mit einem von Microsoft anerkannten. Prüfe zuerst die Prüfsumme, dann „Weitere Informationen“ → „Trotzdem ausführen“.
+3. XBrowser wird nur für deinen Windows-Benutzer installiert – ohne Administratorrechte.
+
+**An Bord:** Firefox-Engine (Gecko 157) ohne Telemetrie und KI-Funktionen · Tor ab Werk an (abschaltbar), mit eigener Verbindung pro Website und automatischen Brücken (obfs4, Snowflake), wenn Tor gesperrt ist · Dynamic Network Firewall gegen Zugriffe aufs Heimnetz und Tracking-Pings · Fingerprint-Schutz auf höchster Stufe · nur HTTPS · Cookie-Banner werden automatisch abgelehnt · uBlock Origin, NoScript, Privacy Badger, CanvasBlocker, User-Agent Switcher, Buster, Bitwarden und Proton VPN ab Werk · Integritätsprüfung aller Programmdateien vor jedem Start · signierte Update-Hinweise, Download erst nach deiner Bestätigung. **[Alle Details](https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/tag/windows-v3.5.0.4-2.21)**
+
+<details>
+<summary><b>Windows-Download prüfen (empfohlen)</b></summary>
+
+1. **Prüfsumme** in PowerShell: `Get-FileHash .\XBrowser-SHIELD-Windows-3.5.0.4-v2.21-Setup.exe -Algorithm SHA256` – muss ergeben:
+   ```
+   38d8ca2c11b01e1c6c18df2ca804358320ce2c53f7f7f7216f507e8675b9149c
+   ```
+2. **Signatur:** Rechtsklick → Eigenschaften → Digitale Signaturen → „XBrowser SHIELD (X-Projekt)“, mit Zeitstempel von DigiCert. Zertifikat SHA-256:
+   ```
+   12e839964141353b4584d4841efa5e04a83c1c4a6286b7137ed2c8c53e070d38
+   ```
+   Windows nennt das Zertifikat „nicht vertrauenswürdig“, weil X-Projekt es selbst ausgestellt hat – das sagt nichts über eine Veränderung der Datei. Eine veränderte Datei meldet Windows als „Die digitale Signatur ist ungültig“.
+</details>
+
+## iPhone und iPad
+
+**XBrowser SHIELD 1.1.0 ist bei Apple eingereicht und wartet auf die Freigabe.** Sobald Apple sie freigibt, gibt es XBrowser kostenlos im App Store – wir melden es zuerst auf [Telegram](https://t.me/XProjekte).
+
+Die iPhone-Version nutzt Apples WebKit (das schreibt Apple für alle Browser vor) und bringt mit: Werbe- und Tracker-Blocker, Link-Bereinigung, Cookie-Kontrolle, JavaScript-Sperre im Stil von NoScript mit Ausnahmen pro Website, Fingerprint- und Standortschutz, HTTPS-Schutz, optional Tor, Captcha-Hilfe (markiert Captchas, löst sie nicht), AirPlay und optional verschlüsseltes DNS über DNS.SB.
+
+Eine IPA-Datei zum Selbstinstallieren gibt es bewusst nicht: Sie wäre für den App Store signiert und ließe sich auf iPhones außerhalb des App Stores nicht installieren.
+
+## So sieht es aus (Android)
 
 <table>
   <tr>
@@ -57,7 +94,7 @@
   </tr>
 </table>
 
-## Download und Installation
+## Android: Download und Installation
 
 **Aktuelle Version: [XBrowser SHIELD 1.4.1](https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/tag/android-v1.4.1)** · Android 8.0 oder neuer
 
@@ -88,7 +125,7 @@ Meldet Android „App nicht installiert“, passt die Architektur nicht – dann
    Prüfen mit `apksigner verify --print-certs <Datei>.apk` aus dem Android SDK. Android selbst lehnt jedes Update ab, das mit einem anderen Schlüssel signiert ist.
 </details>
 
-## Funktionen
+## Funktionen der Android-Version
 
 ### 🕶 Privatsphäre
 - **Private Tabs:** Cookies, Cache und Website-Daten bleiben nur im Arbeitsspeicher und verschwinden, sobald alle Tabs geschlossen sind. „Alles löschen“ entfernt sie sofort.
@@ -124,7 +161,9 @@ Meldet Android „App nicht installiert“, passt die Architektur nicht – dann
 
 ## Tor – direkt eingebaut
 
-**Einschalten:** Einstellungen → Tor → „Integrierter Tor-Dienst“ → XBrowser startet mit einem Tipp neu. XBrowser startet Tor lokal auf dem Handy, bestätigt den Tor-Ausgang über `check.torproject.org` und lädt **bis dahin keine Seite**.
+**Windows:** Tor ist ab Werk an. XBrowser startet Tor zusammen mit dem Browser auf deinem PC; jede Website bekommt eine eigene Tor-Verbindung. Ist Tor gesperrt, wechselt XBrowser selbst auf obfs4- oder Snowflake-Brücken. Abschalten lässt sich Tor im Browser.
+
+**Android – einschalten:** Einstellungen → Tor → „Integrierter Tor-Dienst“ → XBrowser startet mit einem Tipp neu. XBrowser startet Tor lokal auf dem Handy, bestätigt den Tor-Ausgang über `check.torproject.org` und lädt **bis dahin keine Seite**.
 
 - **Angebunden wie im Tor Browser:** SOCKS5, Namensauflösung im Tor-Netz – nie auf deinem Gerät. Lokales DNS, WebRTC, Standort, Vorab-Verbindungen und Direkt-Fallback sind aus.
 - **Eigene Tor-Verbindung pro Website:** Verschiedene Websites laufen über verschiedene Tor-Wege und lassen sich nicht über einen gemeinsamen Ausgang verknüpfen.
@@ -138,15 +177,16 @@ Getestet auf einem Samsung Galaxy S21: Tor bestätigt nach 9–17 Sekunden, vers
 
 ## Datenschutz
 
-XBrowser speichert Einstellungen, Lesezeichen und – nur wenn du ihn einschaltest – den Verlauf **auf deinem Gerät**. Die App selbst verbindet sich nur mit:
+XBrowser speichert Einstellungen, Lesezeichen und Verlauf **auf deinem Gerät**. Die App selbst verbindet sich nur mit:
 
 | Wohin | Wann |
 |---|---|
 | Webseiten und deine gewählte Suchmaschine | wenn du sie aufrufst |
-| Mozilla und Google Safe Browsing | Schutzlisten der Engine – ohne besuchte Adressen im Klartext |
-| GitHub | höchstens alle 6 Stunden: signierte Update-Information; bei einer neuen Version die neue App-Datei |
-| Tor-Netz und `check.torproject.org` | nur im Tor-Modus |
+| Mozilla und Google Safe Browsing | Windows und Android: Schutzlisten der Engine – ohne besuchte Adressen im Klartext |
+| Update-Information | Android (GitHub-Version): GitHub, höchstens alle 6 Stunden · Windows: Update-Server von X-Projekt · iPhone: `xbrowser-security.pages.dev` – jeweils signiert, ohne Nutzungsdaten |
+| Tor-Netz und `check.torproject.org` | im Tor-Modus (unter Windows ab Werk an) |
 | DNS.SB | nur wenn du verschlüsseltes DNS einschaltest |
+| Microsoft | nur bei der Windows-Installation, falls die Visual-C++-Laufzeit fehlt |
 
 Vollständige [Datenschutzerklärung](https://xbrowser.xanonymeki.net/datenschutz/) · [Privacy Policy (English)](https://xbrowser.xanonymeki.net/privacy/)
 
@@ -174,7 +214,19 @@ Vollständige [Datenschutzerklärung](https://xbrowser.xanonymeki.net/datenschut
 ## Häufige Fragen
 
 <details>
-<summary><b>Wie funktionieren die automatischen Updates?</b></summary>
+<summary><b>Windows warnt vor einem „unbekannten Herausgeber“ – ist das normal?</b></summary>
+
+Ja. Das Installationsprogramm ist mit einem eigenen Zertifikat von X-Projekt signiert, nicht mit einem Zertifikat, das Microsoft kennt. Deshalb zeigt SmartScreen „Der Computer wurde durch Windows geschützt“. Prüfe die SHA-256-Prüfsumme im Abschnitt [Windows](#windows); stimmt sie, kannst du über „Weitere Informationen“ → „Trotzdem ausführen“ installieren.
+</details>
+
+<details>
+<summary><b>Wann kommt XBrowser für iPhone und iPad?</b></summary>
+
+Version 1.1.0 ist bei Apple eingereicht. Sobald Apple sie freigibt, steht sie kostenlos im App Store. Den Termin bestimmt Apple; wir melden die Freigabe auf [Telegram](https://t.me/XProjekte).
+</details>
+
+<details>
+<summary><b>Wie funktionieren die automatischen Updates (Android)?</b></summary>
 
 Meldet der signierte Update-Feed eine neue Version, lädt XBrowser sie herunter – standardmäßig nur über WLAN, im Tor-Modus über Tor – und zeigt den Fortschritt als Benachrichtigung. Vor der Installation prüft er Paketname, Version und Signaturschlüssel; eine andere Datei wird abgelehnt und gelöscht. Installiert wird erst, wenn XBrowser nicht auf dem Bildschirm ist, damit nichts mitten im Surfen schließt. Danach meldet eine Benachrichtigung „XBrowser SHIELD wurde aktualisiert“. Abschalten kannst du das im Update-Center (Menü → Sicherheitsupdates).
 </details>
@@ -182,7 +234,7 @@ Meldet der signierte Update-Feed eine neue Version, lädt XBrowser sie herunter 
 <details>
 <summary><b>Kostet XBrowser SHIELD etwas?</b></summary>
 
-Nein. Keine Werbung, kein Konto, keine In-App-Käufe.
+Nein – auf keiner Plattform. Keine Werbung, kein Konto, keine In-App-Käufe.
 </details>
 
 <details>
@@ -236,6 +288,7 @@ XBrowser SHIELD ist ein Projekt von X-Projekt und **kein offizielles Produkt** v
 - Brücken: [IPtProxy](https://github.com/tladesignz/IPtProxy) (MIT) mit [Lyrebird](https://gitlab.torproject.org/tpo/anti-censorship/pluggable-transports/lyrebird) (obfs4, meek; BSD, das Projekt enthält zusätzlich den GPLv3-Text) und [Snowflake](https://gitlab.torproject.org/tpo/anti-censorship/pluggable-transports/snowflake) (BSD-3-Clause)
 - AndroidX und Kotlin – Apache 2.0 · Tor-GeoIP-Daten aus der IPFire Location Database – CC BY-SA 4.0
 - uBlock Origin und Buster werden von addons.mozilla.org geladen und stehen unter ihren eigenen Lizenzen (GPLv3).
+- **Windows-Version:** Mozilla Firefox/Gecko (MPL 2.0), Tor mit OpenSSL, libevent und zlib, Lyrebird (BSD), Conjure (Apache 2.0) und acht unveränderte Add-ons von addons.mozilla.org unter ihren eigenen Lizenzen – Einzelheiten und Quellcode-Adressen im [Windows-Release](https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/tag/windows-v3.5.0.4-2.21).
 
 Alle Lizenztexte und Copyright-Vermerke: [THIRD_PARTY_NOTICES.txt](THIRD_PARTY_NOTICES.txt) – in der App unter Einstellungen → Lizenzen → „Alle Lizenztexte“.
 
@@ -245,7 +298,12 @@ Alle Lizenztexte und Copyright-Vermerke: [THIRD_PARTY_NOTICES.txt](THIRD_PARTY_N
 
 ## English
 
-**XBrowser SHIELD** is a privacy-first web browser for Android 8.0+, made by **X-Projekt**. It renders pages with **Mozilla GeckoView** (the engine of Firefox) and adds its own protection layers:
+**XBrowser SHIELD** is a privacy-first web browser for **Windows, Android and iPhone**, made by **X-Projekt**.
+
+- **Windows 10/11 (64-bit), version 3.5.0.4:** Firefox's engine (Gecko 157) without telemetry, Tor on by default with per-site circuits and automatic bridges, a network firewall, maximum fingerprinting protection, HTTPS-only, eight bundled add-ons (uBlock Origin, NoScript, Privacy Badger, CanvasBlocker, User-Agent Switcher, Buster, Bitwarden, Proton VPN) and integrity checks before every start. [Download](https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/tag/windows-v3.5.0.4-2.21) – SmartScreen warns because the installer is signed with X-Projekt's own certificate; verify the SHA-256 first.
+- **iPhone and iPad, version 1.1.0:** submitted to Apple and waiting for approval; it will be free on the App Store.
+
+**Android 8.0+** renders pages with **Mozilla GeckoView** (the engine of Firefox) and adds its own protection layers:
 
 - **HTTPS only**, certificate details with one tap, and protection of your home network against web pages.
 - **Every tab is private:** total cookie protection, strict tracking protection, link cleaning, Global Privacy Control, no history by default, screenshot protection.
