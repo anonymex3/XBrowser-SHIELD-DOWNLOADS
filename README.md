@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Windows-3.5.0.4-0078d4?style=flat-square" alt="Windows 3.5.0.4">
-  <img src="https://img.shields.io/badge/Android-1.4.1-3ddc84?style=flat-square" alt="Android 1.4.1">
+  <img src="https://img.shields.io/badge/Android-1.4.2-3ddc84?style=flat-square" alt="Android 1.4.2">
   <img src="https://img.shields.io/badge/iPhone%20%26%20iPad-bald%20im%20App%20Store-555?style=flat-square" alt="iPhone und iPad: bald im App Store">
   <img src="https://img.shields.io/badge/Tor-eingebaut-7d4698?style=flat-square" alt="Tor eingebaut">
   <img src="https://img.shields.io/badge/Werbung%20%26%20Tracking-keine-555?style=flat-square" alt="Keine Werbung, kein Tracking">
@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/download/windows-v3.5.0.4-2.21/XBrowser-SHIELD-Windows-3.5.0.4-v2.21-Setup.exe"><img src="https://img.shields.io/badge/Windows%20herunterladen-3.5.0.4%20%C2%B7%2064--Bit-0078d4?style=for-the-badge&logoColor=white&labelColor=005a9e" alt="Für Windows herunterladen"></a>
-  <a href="https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/download/android-v1.4.1/XBrowser-SHIELD-Android8-1.4.1-ARM64.apk"><img src="https://img.shields.io/badge/Android--APK-1.4.1%20%C2%B7%20ARM64-1fbf8f?style=for-the-badge&logo=android&logoColor=white&labelColor=0b7a5a" alt="Android-APK herunterladen"></a>
+  <a href="https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/download/android-v1.4.2/XBrowser-SHIELD-Android8-1.4.2-ARM64.apk"><img src="https://img.shields.io/badge/Android--APK-1.4.2%20%C2%B7%20ARM64-1fbf8f?style=for-the-badge&logo=android&logoColor=white&labelColor=0b7a5a" alt="Android-APK herunterladen"></a>
   <br>
   <sub>Windows 10 und 11 · Android 8.0 und neuer (<a href="#android-download-und-installation">andere Geräte</a>) · iPhone und iPad: Version 1.1.0 ist bei Apple in Prüfung</sub>
 </p>
@@ -33,7 +33,7 @@
 > **Kein Konto. Keine Werbung. Keine Analyse-Dienste. Keine Absturzberichte.**
 > X-Projekt erfährt nicht, welche Seiten du besuchst oder was du suchst.
 
-> **Neuer Name:** XBrowser SHIELD heißt seit Oktober 2026 **Sichtschutz Browser** – im App Store gibt es mehrere Apps namens „X Browser“ anderer Entwickler. Funktionen, Updates und Daten bleiben gleich. Die Windows- und Android-Versionen zeigen bis zu ihrem nächsten Update noch den alten Namen.
+> **Neuer Name:** XBrowser SHIELD heißt seit Oktober 2026 **Sichtschutz Browser** – im App Store gibt es mehrere Apps namens „X Browser“ anderer Entwickler. Funktionen, Updates und Daten bleiben gleich. Android ab 1.4.2 und das iPhone tragen den neuen Namen; die Windows-Version zeigt ihn mit ihrem nächsten Update.
 
 ## Warum Sichtschutz Browser?
 
@@ -98,13 +98,13 @@ Eine IPA-Datei zum Selbstinstallieren gibt es bewusst nicht: Sie wäre für den 
 
 ## Android: Download und Installation
 
-**Aktuelle Version: [XBrowser SHIELD 1.4.1](https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/tag/android-v1.4.1)** · Android 8.0 oder neuer
+**Aktuelle Version: [Sichtschutz Browser 1.4.2](https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/tag/android-v1.4.2)** · Android 8.0 oder neuer
 
 | Datei | Für welches Gerät? | Größe |
 |---|---|---|
-| [**ARM64**](https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/download/android-v1.4.1/XBrowser-SHIELD-Android8-1.4.1-ARM64.apk) | **Fast alle Handys und Tablets** – im Zweifel diese | 224 MB |
-| [ARMv7](https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/download/android-v1.4.1/XBrowser-SHIELD-Android8-1.4.1-ARMv7.apk) | Ältere oder günstige Geräte mit 32-Bit-Prozessor | 185 MB |
-| [x86_64](https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/download/android-v1.4.1/XBrowser-SHIELD-Android8-1.4.1-x86_64.apk) | Emulatoren, Chromebooks mit Intel-/AMD-Prozessor | 246 MB |
+| [**ARM64**](https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/download/android-v1.4.2/XBrowser-SHIELD-Android8-1.4.2-ARM64.apk) | **Fast alle Handys und Tablets** – im Zweifel diese | 224 MB |
+| [ARMv7](https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/download/android-v1.4.2/XBrowser-SHIELD-Android8-1.4.2-ARMv7.apk) | Ältere oder günstige Geräte mit 32-Bit-Prozessor | 185 MB |
+| [x86_64](https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/download/android-v1.4.2/XBrowser-SHIELD-Android8-1.4.2-x86_64.apk) | Emulatoren, Chromebooks mit Intel-/AMD-Prozessor | 246 MB |
 
 1. Die passende APK **auf dem Handy** herunterladen und öffnen.
 2. Android fragt einmal, ob dein Browser oder Dateimanager Apps installieren darf („Unbekannte Apps installieren“) – erlauben.
@@ -117,9 +117,9 @@ Meldet Android „App nicht installiert“, passt die Architektur nicht – dann
 <details>
 <summary><b>Download prüfen (empfohlen)</b></summary>
 
-1. **Prüfsumme:** Der SHA-256-Wert der Datei muss mit [`SHA256SUMS.txt`](https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/download/android-v1.4.1/SHA256SUMS.txt) übereinstimmen.
-   - Windows: `Get-FileHash .\XBrowser-SHIELD-Android8-1.4.1-ARM64.apk -Algorithm SHA256`
-   - macOS / Linux: `shasum -a 256 XBrowser-SHIELD-Android8-1.4.1-ARM64.apk`
+1. **Prüfsumme:** Der SHA-256-Wert der Datei muss mit [`SHA256SUMS.txt`](https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/download/android-v1.4.2/SHA256SUMS.txt) übereinstimmen.
+   - Windows: `Get-FileHash .\XBrowser-SHIELD-Android8-1.4.2-ARM64.apk -Algorithm SHA256`
+   - macOS / Linux: `shasum -a 256 XBrowser-SHIELD-Android8-1.4.2-ARM64.apk`
 2. **Signatur:** Alle APKs sind mit demselben Schlüssel von X-Projekt signiert (APK-Signatur v2 und v3). Zertifikat SHA-256:
    ```
    0827ba16bec12379e935072c82130cd33e892732a72ad5fa5325b65136c169dd
@@ -275,6 +275,10 @@ Eine Play-Version ist in Vorbereitung. Sie wird von Google signiert; ein Wechsel
 Ab Android 8.0, auch auf 32-Bit-Geräten (ARMv7-Datei). Ältere Android-Versionen unterstützt die aktuelle Browser-Engine von Mozilla nicht mehr – eine Engine ohne Sicherheitsupdates kommt für Sichtschutz nicht in Frage.
 </details>
 
+## Neu in 1.4.2
+
+**Neuer Name, gleicher Schutz:** XBrowser SHIELD heißt jetzt Sichtschutz Browser – mit neuem Icon, neuen Texten und dem Telegram-Kanal t.me/XProjekte. Einstellungen, Lesezeichen und Updates bleiben; 1.4.1 aktualisiert sich automatisch. **[Release 1.4.2](https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/tag/android-v1.4.2)**
+
 ## Neu in 1.4.1
 
 **Updates installieren sich jetzt selbst:** Sichtschutz lädt neue Versionen im Hintergrund (standardmäßig nur über WLAN, im Tor-Modus über Tor), prüft sie und installiert sie, sobald Sichtschutz nicht auf dem Bildschirm ist – mit Benachrichtigung bei jedem Schritt. **[Alle Änderungen](https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/tag/android-v1.4.1)**
@@ -315,7 +319,7 @@ Alle Lizenztexte und Copyright-Vermerke: [THIRD_PARTY_NOTICES.txt](THIRD_PARTY_N
 - **Safe downloads**, confirmed links to other apps, signed update information.
 - **No account, no ads, no analytics, no crash reports.**
 
-**Download:** [ARM64 APK](https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/download/android-v1.4.1/XBrowser-SHIELD-Android8-1.4.1-ARM64.apk) for almost every phone, or [all files and checksums](https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/tag/android-v1.4.1). Signing certificate SHA-256: `0827ba16bec12379e935072c82130cd33e892732a72ad5fa5325b65136c169dd`.
+**Download:** [ARM64 APK](https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/download/android-v1.4.2/XBrowser-SHIELD-Android8-1.4.2-ARM64.apk) for almost every phone, or [all files and checksums](https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/tag/android-v1.4.2). Signing certificate SHA-256: `0827ba16bec12379e935072c82130cd33e892732a72ad5fa5325b65136c169dd`.
 
 **Limits:** no browser is "100 % secure", and Sichtschutz Browser does not guarantee anonymity. It has not been independently audited. It is not Tor Browser; use the official Tor Browser if you need strong anonymity. The source code of Sichtschutz Browser is not public; bundled open-source components are listed in [THIRD_PARTY_NOTICES.txt](THIRD_PARTY_NOTICES.txt).
 

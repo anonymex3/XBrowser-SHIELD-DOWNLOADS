@@ -1,11 +1,11 @@
-XBrowser SHIELD 1.4.0 – Lizenzen und Hinweise zu Drittkomponenten
+Sichtschutz Browser (früher XBrowser SHIELD) – Lizenzen und Hinweise zu Drittkomponenten
 Third-party licenses and notices
 
-XBrowser SHIELD ist ein Projekt von X-Projekt. Es enthält die folgenden
+Sichtschutz Browser ist ein Projekt von X-Projekt. Es enthält die folgenden
 Komponenten Dritter. Sie stehen unter ihren eigenen Lizenzen; die
 vollständigen Lizenztexte folgen unten.
 
-XBrowser SHIELD is a project by X-Projekt. It contains the third-party
+Sichtschutz Browser is a project by X-Projekt. It contains the third-party
 components listed below under their own licenses; full texts follow.
 
 KOMPONENTEN / COMPONENTS
