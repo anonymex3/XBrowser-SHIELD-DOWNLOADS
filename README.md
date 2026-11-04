@@ -4,17 +4,17 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Windows-3.5.0.4-0078d4?style=flat-square" alt="Windows 3.5.0.4">
-  <img src="https://img.shields.io/badge/Android-1.4.2-3ddc84?style=flat-square" alt="Android 1.4.2">
-  <img src="https://img.shields.io/badge/iPhone%20%26%20iPad-bald%20im%20App%20Store-555?style=flat-square" alt="iPhone und iPad: bald im App Store">
+  <img src="https://img.shields.io/badge/Android-1.4.7-3ddc84?style=flat-square" alt="Android 1.4.7">
+  <img src="https://img.shields.io/badge/iPhone%20%26%20iPad-1.5.0%20bei%20Apple-555?style=flat-square" alt="iPhone und iPad: Version 1.5.0 bei Apple eingereicht">
   <img src="https://img.shields.io/badge/Tor-eingebaut-7d4698?style=flat-square" alt="Tor eingebaut">
   <img src="https://img.shields.io/badge/Werbung%20%26%20Tracking-keine-555?style=flat-square" alt="Keine Werbung, kein Tracking">
 </p>
 
 <p align="center">
   <a href="https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/download/windows-v3.5.0.4-2.21/XBrowser-SHIELD-Windows-3.5.0.4-v2.21-Setup.exe"><img src="https://img.shields.io/badge/Windows%20herunterladen-3.5.0.4%20%C2%B7%2064--Bit-0078d4?style=for-the-badge&logoColor=white&labelColor=005a9e" alt="Für Windows herunterladen"></a>
-  <a href="https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/download/android-v1.4.2/XBrowser-SHIELD-Android8-1.4.2-ARM64.apk"><img src="https://img.shields.io/badge/Android--APK-1.4.2%20%C2%B7%20ARM64-1fbf8f?style=for-the-badge&logo=android&logoColor=white&labelColor=0b7a5a" alt="Android-APK herunterladen"></a>
+  <a href="https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/download/android-v1.4.7/XBrowser-SHIELD-Android8-1.4.7-ARM64.apk"><img src="https://img.shields.io/badge/Android--APK-1.4.7%20%C2%B7%20ARM64-1fbf8f?style=for-the-badge&logo=android&logoColor=white&labelColor=0b7a5a" alt="Android-APK herunterladen"></a>
   <br>
-  <sub>Windows 10 und 11 · Android 8.0 und neuer (<a href="#android-download-und-installation">andere Geräte</a>) · iPhone und iPad: Version 1.1.0 ist bei Apple in Prüfung</sub>
+  <sub>Windows 10 und 11 · Android 8.0 und neuer (<a href="#android-download-und-installation">andere Geräte</a>) · iPhone und iPad: Version 1.5.0 bei Apple eingereicht · [IPA zum Selbstinstallieren](https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/tag/ios-v1.5.0-unsigned)</sub>
 </p>
 
 <p align="center">
@@ -73,13 +73,20 @@
 
 ## iPhone und iPad
 
-**Sichtschutz Browser 1.1.0 ist bei Apple eingereicht und wartet auf die Freigabe.** Sobald Apple sie freigibt, gibt es Sichtschutz kostenlos im App Store – wir melden es zuerst auf [Telegram](https://t.me/XProjekte).
+**Sichtschutz Browser 1.5.0 ist bei Apple eingereicht und wartet auf die Freigabe.** Sobald Apple sie freigibt, gibt es Sichtschutz kostenlos im App Store – wir melden es zuerst auf [Telegram](https://t.me/XProjekte).
 
 Die iPhone-Version nutzt Apples WebKit (das schreibt Apple für alle Browser vor) und bringt mit: Werbe- und Tracker-Blocker, Link-Bereinigung, Cookie-Kontrolle, JavaScript-Sperre im Stil von NoScript mit Ausnahmen pro Website, Fingerprint- und Standortschutz, HTTPS-Schutz, optional Tor, Captcha-Hilfe (markiert Captchas, löst sie nicht), AirPlay und optional verschlüsseltes DNS über DNS.SB.
 
-Eine IPA-Datei zum Selbstinstallieren gibt es bewusst nicht: Sie wäre für den App Store signiert und ließe sich auf iPhones außerhalb des App Stores nicht installieren.
+Außerdem gibt es die App als **unsignierte IPA** zum [direkten Herunterladen](https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/tag/ios-v1.5.0-unsigned) (Datei `XBrowser-SHIELD-iOS-1.5.0-unsigned.ipa`, 17 MB). Sie lässt sich nicht einfach antippen, sondern muss mit deiner eigenen Apple-ID signiert werden:
 
-## So sieht es aus (Android 1.4.2)
+1. IPA von dieser Seite laden und die SHA-256-Prüfsumme vergleichen.
+2. Auf dem PC **AltStore** oder **Sideloadly** installieren und das iPhone per Kabel anschließen.
+3. Mit deiner Apple-ID signieren und auf das iPhone übertragen.
+4. Auf dem iPhone den Entwicklermodus einschalten (Einstellungen → Datenschutz & Sicherheit) und das Profil unter Einstellungen → Allgemein → VPN & Geräteverwaltung vertrauen.
+
+Mit kostenloser Apple-ID läuft die App nach 7 Tagen ab und muss neu signiert werden. Der App Store bleibt der einfache Weg; dort aktualisiert sich die App selbst.
+
+## So sieht es aus (Android)
 
 <table>
   <tr>
@@ -93,13 +100,13 @@ Eine IPA-Datei zum Selbstinstallieren gibt es bewusst nicht: Sie wäre für den 
 
 ## Android: Download und Installation
 
-**Aktuelle Version: [Sichtschutz Browser 1.4.2](https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/tag/android-v1.4.2)** · Android 8.0 oder neuer
+**Aktuelle Version: [Sichtschutz Browser 1.4.7](https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/tag/android-v1.4.7)** · Android 8.0 oder neuer
 
 | Datei | Für welches Gerät? | Größe |
 |---|---|---|
-| [**ARM64**](https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/download/android-v1.4.2/XBrowser-SHIELD-Android8-1.4.2-ARM64.apk) | **Fast alle Handys und Tablets** – im Zweifel diese | 224 MB |
-| [ARMv7](https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/download/android-v1.4.2/XBrowser-SHIELD-Android8-1.4.2-ARMv7.apk) | Ältere oder günstige Geräte mit 32-Bit-Prozessor | 185 MB |
-| [x86_64](https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/download/android-v1.4.2/XBrowser-SHIELD-Android8-1.4.2-x86_64.apk) | Emulatoren, Chromebooks mit Intel-/AMD-Prozessor | 246 MB |
+| [**ARM64**](https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/download/android-v1.4.7/XBrowser-SHIELD-Android8-1.4.7-ARM64.apk) | **Fast alle Handys und Tablets** – im Zweifel diese | 233 MB |
+| [ARMv7](https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/download/android-v1.4.7/XBrowser-SHIELD-Android8-1.4.7-ARMv7.apk) | Ältere oder günstige Geräte mit 32-Bit-Prozessor | 184 MB |
+| [x86_64](https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/download/android-v1.4.7/XBrowser-SHIELD-Android8-1.4.7-x86_64.apk) | Emulatoren, Chromebooks mit Intel-/AMD-Prozessor | 245 MB |
 
 1. Die passende APK **auf dem Handy** herunterladen und öffnen.
 2. Android fragt einmal, ob dein Browser oder Dateimanager Apps installieren darf („Unbekannte Apps installieren“) – erlauben.
@@ -112,9 +119,9 @@ Meldet Android „App nicht installiert“, passt die Architektur nicht – dann
 <details>
 <summary><b>Download prüfen (empfohlen)</b></summary>
 
-1. **Prüfsumme:** Der SHA-256-Wert der Datei muss mit [`SHA256SUMS.txt`](https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/download/android-v1.4.2/SHA256SUMS.txt) übereinstimmen.
-   - Windows: `Get-FileHash .\XBrowser-SHIELD-Android8-1.4.2-ARM64.apk -Algorithm SHA256`
-   - macOS / Linux: `shasum -a 256 XBrowser-SHIELD-Android8-1.4.2-ARM64.apk`
+1. **Prüfsumme:** Der SHA-256-Wert der Datei muss mit [`SHA256SUMS.txt`](https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/download/android-v1.4.7/SHA256SUMS.txt) übereinstimmen.
+   - Windows: `Get-FileHash .\XBrowser-SHIELD-Android8-1.4.7-ARM64.apk -Algorithm SHA256`
+   - macOS / Linux: `shasum -a 256 XBrowser-SHIELD-Android8-1.4.7-ARM64.apk`
 2. **Signatur:** Alle APKs sind mit demselben Schlüssel von X-Projekt signiert (APK-Signatur v2 und v3). Zertifikat SHA-256:
    ```
    0827ba16bec12379e935072c82130cd33e892732a72ad5fa5325b65136c169dd
@@ -219,7 +226,7 @@ Ja. Das Installationsprogramm ist mit einem eigenen Zertifikat von X-Projekt sig
 <details>
 <summary><b>Wann kommt Sichtschutz für iPhone und iPad?</b></summary>
 
-Version 1.1.0 ist bei Apple eingereicht. Sobald Apple sie freigibt, steht sie kostenlos im App Store. Den Termin bestimmt Apple; wir melden die Freigabe auf [Telegram](https://t.me/XProjekte).
+Version 1.5.0 ist bei Apple eingereicht. Sobald Apple sie freigibt, steht sie kostenlos im App Store. Den Termin bestimmt Apple; wir melden die Freigabe auf [Telegram](https://t.me/XProjekte).
 </details>
 
 <details>
@@ -302,7 +309,7 @@ Alle Lizenztexte und Copyright-Vermerke: [THIRD_PARTY_NOTICES.txt](THIRD_PARTY_N
 **Sichtschutz Browser** (called XBrowser SHIELD until October 2026) is a privacy-first web browser for **Windows, Android and iPhone**, made by **X-Projekt**.
 
 - **Windows 10/11 (64-bit), version 3.5.0.4:** Firefox's engine (Gecko 157) without telemetry, Tor on by default with per-site circuits and automatic bridges, a network firewall, maximum fingerprinting protection, HTTPS-only, eight bundled add-ons (uBlock Origin, NoScript, Privacy Badger, CanvasBlocker, User-Agent Switcher, Buster, Bitwarden, Proton VPN) and integrity checks before every start. [Download](https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/tag/windows-v3.5.0.4-2.21) – SmartScreen warns because the installer is signed with X-Projekt's own certificate; verify the SHA-256 first.
-- **iPhone and iPad, version 1.1.0:** submitted to Apple and waiting for approval; it will be free on the App Store.
+- **iPhone and iPad, version 1.5.0:** submitted to Apple and waiting for approval; free on the App Store once approved. Until then an [unsigned IPA](https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/tag/ios-v1.5.0-unsigned) can be installed yourself (see the German section).
 
 **Android 8.0+** renders pages with **Mozilla GeckoView** (the engine of Firefox) and adds its own protection layers:
 
@@ -314,7 +321,7 @@ Alle Lizenztexte und Copyright-Vermerke: [THIRD_PARTY_NOTICES.txt](THIRD_PARTY_N
 - **Safe downloads**, confirmed links to other apps, signed update information.
 - **No account, no ads, no analytics, no crash reports.**
 
-**Download:** [ARM64 APK](https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/download/android-v1.4.2/XBrowser-SHIELD-Android8-1.4.2-ARM64.apk) for almost every phone, or [all files and checksums](https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/tag/android-v1.4.2). Signing certificate SHA-256: `0827ba16bec12379e935072c82130cd33e892732a72ad5fa5325b65136c169dd`.
+**Download:** [ARM64 APK](https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/download/android-v1.4.7/XBrowser-SHIELD-Android8-1.4.7-ARM64.apk) for almost every phone, or [all files and checksums](https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS/releases/tag/android-v1.4.7). Signing certificate SHA-256: `0827ba16bec12379e935072c82130cd33e892732a72ad5fa5325b65136c169dd`.
 
 **Limits:** no browser is "100 % secure", and Sichtschutz Browser does not guarantee anonymity. It has not been independently audited. It is not Tor Browser; use the official Tor Browser if you need strong anonymity. The source code of Sichtschutz Browser is not public; bundled open-source components are listed in [THIRD_PARTY_NOTICES.txt](THIRD_PARTY_NOTICES.txt).
 
